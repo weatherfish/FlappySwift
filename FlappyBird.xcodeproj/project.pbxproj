@@ -68,6 +68,7 @@
 				437451FB193D163700654986 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		437451FB193D163700654986 /* Products */ = {
 			isa = PBXGroup;
@@ -162,6 +163,8 @@
 		437451F2193D163700654986 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = Fullstack.io;
 				TargetAttributes = {
